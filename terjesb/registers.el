@@ -1,0 +1,7 @@
+(set-register ?f '(file . "~/Documents/Org/fjellsport.org"))
+(set-register ?m '(file . "~/Documents/Org/misc.org"))
+(set-register ?n '(file . "~/Documents/Org/notes.org"))
+(set-register ?r '(file . "~/.emacs.d/terjesb/registers.el"))
+(set-register ?s '(file . "~/Documents/Org/ssh.org"))
+(set-register ?t '(file . "~/Documents/Org/todo.org"))
+(set-register ?w '(file . "~/Documents/Org/webshop.org"))
