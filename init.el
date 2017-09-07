@@ -51,6 +51,7 @@
     company-quickhelp
     dash
     dash-at-point
+    deft
     epl
     es-mode
     flx-ido
@@ -59,10 +60,11 @@
     ido-hacks
     ido-ubiquitous
     ido-vertical-mode
+    inf-clojure
     json
     magit
     markdown-mode
-    multiple-cursors
+    ;;multiple-cursors
     org
     paredit
     projectile
@@ -72,7 +74,7 @@
     ;;tagedit
     tramp
     undo-tree
-    yasnippet
+    ;;yasnippet
     color-theme-sanityinc-solarized
     color-theme-sanityinc-tomorrow
     color-theme-solarized

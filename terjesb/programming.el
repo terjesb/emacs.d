@@ -39,8 +39,8 @@
 ;;;(require 'ac-nrepl)
 
 (require 'company)
-(require 'yasnippet)
-(yas/global-mode 1)
+;;(require 'yasnippet)
+;;(yas/global-mode 1)
 (global-company-mode)
 (company-quickhelp-mode 1)
 
@@ -97,7 +97,7 @@
 (add-to-list 'same-window-buffer-names "*cider*")
 
 
-(require 'multiple-cursors)
+;;(require 'multiple-cursors)
 
 ;; http://blog.bookworm.at/2007/03/pretty-print-xml-with-emacs.html
 (setq rng-nxml-auto-validate-flag nil)

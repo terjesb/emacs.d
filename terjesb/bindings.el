@@ -22,6 +22,7 @@
 (global-set-key (kbd "C-ø") 'delete-indentation)
 (global-set-key (kbd "M-ø") 'delete-indentation)
 (global-set-key (kbd "M-æ") 'delete-horizontal-space)
+(global-set-key (kbd "M-7") 'shell-command-on-region)
 
 (global-set-key (kbd "s-c") 'clipboard-kill-ring-save)
 (global-set-key (kbd "s-x") 'clipboard-kill-region)
